@@ -6,6 +6,15 @@ Online Food Ordering System is a basic web application developed using Python Fl
 This repository contains a beginner-friendly Flask project that can be accessed, cloned, and executed locally for learning and practice purposes.
 
 
+<pre>
+🛠️ Technologies Used
+
+Backend: Python, Flask
+Frontend: HTML, CSS, Bootstrap
+Database: SQLite
+</pre> 
+
+
 🚀 Features
 
 <pre>
@@ -27,13 +36,6 @@ Track monthly orders
 View registered users
 </pre>
 
-<pre>
-🛠️ Technologies Used
-
-Backend: Python, Flask
-Frontend: HTML, CSS, Bootstrap
-Database: SQLite
-</pre>
 
 <pre>
   PDF Generation: ReportLab / Flask utilities
